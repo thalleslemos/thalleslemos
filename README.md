@@ -1,6 +1,6 @@
 ### 🎲 About me
 
-📍 **Data professional based in Brazil**
+**Data professional based in Brazil**
 
 I am currently getting a Master's degree in Data Science and Analytics at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP) and I have a Chemical Engineering degree from Unicamp.
 
