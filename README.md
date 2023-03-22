@@ -1,16 +1,22 @@
-### Hi there 👋
+### 🎲 About me
 
-<!--
-**thalleslemos/thalleslemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Data professional based in Brazil**
 
-Here are some ideas to get you started:
+I am currently getting a Master's degree in Data Science and Analytics at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP) and I have a Chemical Engineering degree from Unicamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I worked for over 3 years at Loft, a fast-growing technology startup. There, I developed experience with data modeling, detection of data quality problems, creation of visualizations, charts, analyses, and identification of opportunities to improve business processes. 
+
+### 💻 Stack
+
+- SQL;
+- Looker & LookML;
+- dbt;
+- Databricks;
+- Github;
+- Python;
+- R.
+
+### 🤙 Reach me
+
+**E-mail:** thalleslemos@gmail.com <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalleslemos/)
