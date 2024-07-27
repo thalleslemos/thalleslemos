@@ -2,13 +2,18 @@
 
 **Data professional based in Brazil**
 
-I am currently getting a postgraduate degree in Data Science and Analytics at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP) and I have a Chemical Engineering degree from Unicamp.
+Analytics Engineer with 7 years' experience in analytical positions. I have a degree in Chemical Engineering from UNICAMP and a postgraduate degree in Data Science and Analytics from USP.
 
-I've worked for over 3 years at [Loft](https://loft.com.br/), a fast-growing technology startup. There, I developed experience with data modeling, detection of data quality problems, creation of visualizations, charts, analyses, and identification of opportunities to improve business processes. 
+Engaged with new technologies, communication and teamwork. I've worked with product, data engineering, sales, marketing and finance teams.
+
+I've worked at Loft, a unicorn technology startup in the real estate market (proptech) and Stone, a fintech in the payments area. 
+
+I have 5 years' experience creating and maintaining SQL tables, 4 years with Looker and LookML and 2 years working with dbt models and GitHub. I also have a lot of practice with PySpark and Databricks, dealing with data quality problems, creating visualizations, graphs and analyzes, as well as identifying opportunities to improve business processes. 
 
 ### 💻 Stack
 
 - SQL;
+- PySpark;
 - Looker & LookML;
 - dbt;
 - Databricks;
